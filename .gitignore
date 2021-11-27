@@ -1,0 +1,10 @@
+/.vscode
+/model.json
+/node_modules
+/old_training
+/output
+/src
+/training/*
+/models/*
+/models/*/*
+test.txt

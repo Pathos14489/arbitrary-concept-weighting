@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 import synonyms from "synonyms"
-import dictionary from "../dictionary/index.js"
+import dictionary from "./dictionary/index.js"
 import topEngWords from "./topEngWords.js"
 const diff = (a, b) => {
     return Math.abs(a - b);
